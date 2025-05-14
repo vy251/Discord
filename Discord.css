@@ -1,0 +1,129 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.parentdiv{
+    display:flex;
+}
+.div1{
+    width:60px;
+    height:778px;
+    background-color:rgba(0, 0, 0, 0.822);
+}
+.div2{
+    width:250px;
+    height:778px;
+    background-color:rgba(0, 0, 0, 0.797);
+}
+.div22{
+    background-color:rgba(0, 0, 0, 0.797);
+    height:728px;
+    width:100%;
+}
+.input{
+    padding-left:5px;
+    color:white;
+}
+.fri{
+    display:flex;
+    width:200px;
+    height:45px;
+    /* border:2px solid white; */
+    margin-left:20px;
+   justify-content:space-between ;
+   
+}
+.fri1{
+    margin-top:15px;
+}
+/* .friends{
+    height:100px;
+    width:100px;
+} */
+.div3{
+    /* height:40px; */
+    width:100vw;
+}
+.div4{
+    display:flex;
+    /* width:250px;
+    height:800px;
+    background-color:rgba(0, 0, 0, 0.775); */
+}
+.img{
+    height:50px;
+    border-radius:50%;
+    padding-top:10px;
+}
+.img2{
+    height:728px;
+    width:830px;
+}
+input{
+    background-color: rgba(0, 0, 0, 0.293);
+    margin:10px;
+    width:220px;
+    height:25px;
+}
+.a3{
+    color:darkgray;
+    text-decoration:none;
+    font-weight: 700;
+    margin-top:10px;
+    padding-left:25px;
+}
+.a3:hover{
+    color:white;
+}
+.friends{
+    height:50px;
+    width:50px;
+    margin-left:10px; 
+}
+.p1{
+    margin:20px;
+    color:darkgray;
+    font-weight: 700;
+}
+.navbar{
+    height:48px;
+    display:flex;
+    align-items: center;
+    background-color:rgba(0, 0, 0, 0.797);
+}
+.hr1{
+    border:1px solid rgba(0, 0, 0, 0.114);
+}
+.hr{
+    border:1px solid rgba(0, 0, 0, 0.816);
+}
+.a1{
+    text-decoration:none;
+    color:white;
+    padding:10px;
+    margin-left:20px;
+}
+.h2{
+    color:rgba(255, 255, 255, 0.775);
+    padding:20px;
+    font-size:24px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.main{
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    margin-top:10px;
+}
+.first{
+    color:white;
+    display:flex;
+    justify-content: center;
+}
+.sec{
+    color:rgba(255, 255, 255, 0.463); 
+    margin-top:4px;
+}
+.I{
+    margin-top:2px;
+}
